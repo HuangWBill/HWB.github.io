@@ -5,12 +5,12 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-url: https://HWB.page/
+url: https://WubiaoHuang/
 
 # Site Settings
 title                    : "Wubiao Huang(黄武彪)"
 description              : "Ph.D. Student, Wuhan University"
-repository               : "HuangWBill/HWB.page"
+repository               : "HuangWBill/WubiaoHuang"
 # google_scholar_stats_use_cdn : true
 
 # google analytics
